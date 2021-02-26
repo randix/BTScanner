@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BTManager",
+        "repositoryURL": "https://github.com/randix/BTManager/",
+        "state": {
+          "branch": null,
+          "revision": "f0bc6f612a60c1d3abd841a3c646f11a5057a458",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
